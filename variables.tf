@@ -1,5 +1,5 @@
 variable "ami_id" {
-  description = "The testing AMI ID for the instance"
+  description = "The testing AMI ID for the instance for the version 5.0.0"
 }
 
 variable "instance_type" {
