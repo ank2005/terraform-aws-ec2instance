@@ -3,6 +3,6 @@ variable "ami_id" {
 }
 
 variable "instance_type" {
-  description = "The type of EC2 instance to launch"
+  description = "The type of EC2 instance to launch this is for testing"
 }
 
